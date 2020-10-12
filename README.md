@@ -24,3 +24,10 @@ https://www.w3schools.com/python/default.asp)
 > > 這個是上一屆學長做的XD
 
 
+##### 練習題 10/13 
+loop 
+1. [二進位制轉換](https://zerojudge.tw/ShowProblem?problemid=a034&fbclid=IwAR2drIYH84dBziD2jIuharq3TMIi1s70GtD2reL2LzCxxKSUA80bNY050j0)
+2. [Triangle Wave](https://zerojudge.tw/ShowProblem?problemid=c013&fbclid=IwAR3N0X1QJB49VhIyoBATSsITnwH1h0VRd041oERDpEQhJHEn4mlXplZwcV8)
+3. 挑戰: 金字塔
+
+
