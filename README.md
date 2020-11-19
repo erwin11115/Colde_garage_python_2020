@@ -22,12 +22,10 @@ https://www.w3schools.com/python/default.asp)
 > 學道新語法不知道怎麼練習可以來這個網站 \
 > [這裡有在ZJ使用python的注意事項](https://github.com/erwin11115/colde_garage_python_2019/blob/master/zj_exercise/2019_10_31.md)
 > > 這個是上一屆學長做的XD
-3. [RE 詳細介紹](https://docs.python.org/3/library/re.html)
 
+3. [RE 詳細介紹](https://docs.python.org/3/library/re.html)
 4. [Python 速查手冊 RE](http://kaiching.org/pydoing/py/python-library-re.html/)
 > 快速查詢關鍵字元
-> 練習
-
 
 
 
@@ -35,6 +33,9 @@ https://www.w3schools.com/python/default.asp)
 loop 
 1. [二進位制轉換](https://zerojudge.tw/ShowProblem?problemid=a034&fbclid=IwAR2drIYH84dBziD2jIuharq3TMIi1s70GtD2reL2LzCxxKSUA80bNY050j0)
 2. [Triangle Wave](https://zerojudge.tw/ShowProblem?problemid=c013&fbclid=IwAR3N0X1QJB49VhIyoBATSsITnwH1h0VRd041oERDpEQhJHEn4mlXplZwcV8)
-3. 挑戰: 金字塔
+3. [python 語法練習 101320](https://hackmd.io/hd1tkVBgRwWHccm_wdhYtw) 
+>  gmail 排版
+4. [RE練習](https://hackmd.io/3InD_yMpTIOHAQYfmAcHZg)
+
 
 
