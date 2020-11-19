@@ -24,7 +24,7 @@ https://www.w3schools.com/python/default.asp)
 > > 這個是上一屆學長做的XD
 
 3. [RE 詳細介紹](https://docs.python.org/3/library/re.html)
-4. [Python 速查手冊 RE](http://kaiching.org/pydoing/py/python-library-re.html/)
+4. [Python 速查手冊 RE](http://kaiching.org/pydoing/py/python-library-re.html)
 > 快速查詢關鍵字元
 
 
