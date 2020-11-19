@@ -22,6 +22,11 @@ https://www.w3schools.com/python/default.asp)
 > 學道新語法不知道怎麼練習可以來這個網站 \
 > [這裡有在ZJ使用python的注意事項](https://github.com/erwin11115/colde_garage_python_2019/blob/master/zj_exercise/2019_10_31.md)
 > > 這個是上一屆學長做的XD
+3. [RE 詳細介紹](https://docs.python.org/3/library/re.html)
+
+4. [Python 速查手冊 RE](http://kaiching.org/pydoing/py/python-library-re.html/)
+> 快速查詢關鍵字元
+
 
 
 ##### 練習題 10/13 
