@@ -26,6 +26,8 @@ https://www.w3schools.com/python/default.asp)
 
 4. [Python 速查手冊 RE](http://kaiching.org/pydoing/py/python-library-re.html/)
 > 快速查詢關鍵字元
+> 練習
+
 
 
 
